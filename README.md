@@ -1,5 +1,5 @@
 # Mapping Spatial Indicators of the Sustainable Development Goals (SDGs)
-![image](https://github.com/user-attachments/assets/6715b991-d761-4e41-b4e6-6126838d5bd5)
+![chrome-capture-2025-2-18](https://github.com/user-attachments/assets/c328b8f4-d9cd-44ec-99b3-99977381db14)
 In 2021, while working as a Geospatial Analyst at UN-Habitat, I created a series of cartographic visualizations for the Moscow Voluntary Local Review on the progress towards the SDGs implementation. Some of them are available on the [interactive map in Foursquare Studio](https://studio.foursquare.com/public/761de512-4d24-4acc-99ae-3e7bf93f2bf5), a geospatial analysis tool based on [kepler.gl](https://kepler.gl).
 
 To create these maps, statistical data were gathered from government agencies and open sources, analyzed and systematised in cohesive datasets corresponding to each SDG. Data harmonisation included cleaning and unifying varying file formats, measurement units and time periods. The harmonised data were then transformed into a spatial format using spatial join and geocoding operations.
