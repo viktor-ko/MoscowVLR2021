@@ -9,13 +9,16 @@ Various mapping techniques were used to show the results of the geospatial analy
 - Heatmaps
 - Hexagon maps
 
-## List of selected indicators
+## List of selected 11 indicators
 SDG 1 - No Poverty:
 - Recipients of utility subsidies, % of the district's population
 
 SDG 3 - Good Health:
 - Road accident fatalities density
 - Open sportgrounds per 100,000 people
+
+SDG 4 - Quality Education:
+- Places in kindergartens per 1000 kids aged 1-6
 
 SDG 11 - Sustainable Cities:
 - Housing Affordability, years to save up for a 54 sq m flat
